@@ -1,0 +1,13 @@
+{
+  "strictLineBreaks": true,
+  "spellcheckLanguages": [
+    "zh-CN",
+    "en-US"
+  ],
+  "spellcheck": true,
+  "useTab": false,
+  "tabSize": 4,
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "assets"
+}

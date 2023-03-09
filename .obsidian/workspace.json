@@ -1,0 +1,174 @@
+{
+  "main": {
+    "id": "1d469dde2133fadd",
+    "type": "split",
+    "children": [
+      {
+        "id": "079c1a178c5cc06a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "058fb0d13c60d257",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "program/30 Days Of Python.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5fd27cc8c3247d4f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "基础实践.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "67fcf8b290567e86",
+    "type": "split",
+    "children": [
+      {
+        "id": "82ab39ddd8025548",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2dc24c6b480ba2b7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8a10689ae2be7ecb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "53e278af73f51423",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "2d7f0f15475d2339",
+    "type": "split",
+    "children": [
+      {
+        "id": "c039ca45b06abe12",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b28969ba4d7f6402",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "基础实践.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e4b3a40d6262d151",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "基础实践.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "44c2a32935b68db2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f6b61c05e383cf91",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "基础实践.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "5fd27cc8c3247d4f",
+  "lastOpenFiles": [
+    "assets/Pasted image 20230309161849.png",
+    "assets/Pasted image 20230309161756.png",
+    "program/30 Days Of Python.md",
+    "基础实践.md",
+    "vitest 实践指南",
+    "program",
+    "assets"
+  ]
+}
