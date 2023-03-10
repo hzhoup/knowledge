@@ -9,5 +9,6 @@
   "tabSize": 4,
   "alwaysUpdateLinks": true,
   "showUnsupportedFiles": true,
-  "attachmentFolderPath": "assets"
+  "attachmentFolderPath": "assets",
+  "promptDelete": false
 }

@@ -11,8 +11,12 @@
             "id": "08d7360c9fd7bc3b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "program/30 Days Of Python.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "program/30 Days Of Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "program/30 Days Of Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "program/30 Days Of Python.md"
+              }
             }
           }
         ]
@@ -140,11 +148,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2dc24c6b480ba2b7",
+  "active": "08d7360c9fd7bc3b",
   "lastOpenFiles": [
-    "program/30 Days Of Python.md",
     "基础实践.md",
     "assets/Pasted image 20230309161849.png",
+    "program/30 Days Of Python.md",
     "assets/Pasted image 20230309161756.png",
     "vitest 实践指南",
     "program",
