@@ -65,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2d7f0f15475d2339",
@@ -139,7 +140,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "08d7360c9fd7bc3b",
+  "active": "2dc24c6b480ba2b7",
   "lastOpenFiles": [
     "program/30 Days Of Python.md",
     "基础实践.md",
