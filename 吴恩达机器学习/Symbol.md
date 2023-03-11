@@ -1,0 +1,3 @@
+- m: Number of training examples
+- x: 'input' variable / features
+- y: 'output' variable / target variable

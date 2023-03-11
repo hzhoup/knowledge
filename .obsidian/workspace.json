@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "68f5bb5b4d5c4bf8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "吴恩达机器学习/Linear regression.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6e1c8db35091e266",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "吴恩达机器学习/Symbol.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2d7f0f15475d2339",
@@ -86,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "program/30 Days Of Python.md",
+                "file": "吴恩达机器学习/Linear regression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "program/30 Days Of Python.md",
+                "file": "吴恩达机器学习/Linear regression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "program/30 Days Of Python.md"
+                "file": "吴恩达机器学习/Linear regression.md"
               }
             }
           }
@@ -148,9 +172,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f3c58414e0e13998",
+  "active": "68f5bb5b4d5c4bf8",
   "lastOpenFiles": [
+    "吴恩达机器学习/Symbol.md",
+    "吴恩达机器学习/Linear regression.md",
     "program/30 Days Of Python.md",
+    "吴恩达机器学习/什么是机器学习.md",
+    "吴恩达机器学习/Unsupervised Learning.md",
+    "吴恩达机器学习/Supervised Learning.md",
+    "吴恩达机器学习",
     "基础实践.md",
     "assets/Pasted image 20230309161849.png",
     "assets/Pasted image 20230309161756.png",

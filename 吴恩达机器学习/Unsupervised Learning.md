@@ -1,0 +1,1 @@
+Unsupervised learning is a type of algorithm that learns patterns from untagged data. The goal is that through mimicry, which is an important mode of learning in people, the machine is forced to build a concise representation of its world and then generate imaginative content from it.
