@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e40aac9df9f5abde",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Human Interface Guidelines.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Components/HTML Templates.md",
+                "file": "Human Interface Guidelines.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Components/HTML Templates.md",
+                "file": "Human Interface Guidelines.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Components/HTML Templates.md"
+                "file": "Human Interface Guidelines.md"
               }
             }
           }
@@ -161,10 +173,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2dc24c6b480ba2b7",
+  "active": "e40aac9df9f5abde",
   "lastOpenFiles": [
-    "Web Components/An Introduction to Web Components.md",
     "Web Components/HTML Templates.md",
+    "Human Interface Guidelines.md",
+    "Web Components/An Introduction to Web Components.md",
     "Web Components/Shadow DOM.md",
     "Web Components/Custom Elements.md",
     "conflict-files-obsidian-git.md",
