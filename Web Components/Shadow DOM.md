@@ -1,0 +1,1 @@
+The shadow DOM is an encapsulated version of the DOM. This allows authors to effectively isolate DOM fragments from one another, including anything that could be used as a CSS selector and the styles associated with them. Generally, any content inside of the document's scope is referred to as the light DOM, and anything inside a shadow root is referred to as the shadow DOM.
