@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "2eb48f7acd667793",
+        "id": "1028c6937b1997d5",
         "type": "tabs",
         "children": [
           {
-            "id": "f3c58414e0e13998",
+            "id": "b1263b0819bd186d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "program/30 Days Of Python.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -69,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2d7f0f15475d2339",
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "program/30 Days Of Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "program/30 Days Of Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "program/30 Days Of Python.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,7 +139,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f3c58414e0e13998",
+  "active": "b1263b0819bd186d",
   "lastOpenFiles": [
     "program/30 Days Of Python.md",
     "基础实践.md",
