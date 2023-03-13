@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "1028c6937b1997d5",
+        "id": "e6f5b08fae5bda56",
         "type": "tabs",
         "children": [
           {
-            "id": "b1263b0819bd186d",
+            "id": "6ea6222cfe782018",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Components/An Introduction to Web Components.md",
+                "file": "吴恩达机器学习/Linear regression.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "95f5d85e5e7e82b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "吴恩达机器学习/Cost Funtion.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2d7f0f15475d2339",
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Components/An Introduction to Web Components.md",
+                "file": "吴恩达机器学习/Cost Funtion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Components/An Introduction to Web Components.md",
+                "file": "吴恩达机器学习/Cost Funtion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Components/An Introduction to Web Components.md"
+                "file": "吴恩达机器学习/Cost Funtion.md"
               }
             }
           }
@@ -148,10 +160,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b1263b0819bd186d",
+  "active": "95f5d85e5e7e82b1",
   "lastOpenFiles": [
-    "Human Interface Guidelines.md",
+    "吴恩达机器学习/Linear regression.md",
+    "吴恩达机器学习/Cost Funtion.md",
     "Web Components/An Introduction to Web Components.md",
+    "Human Interface Guidelines.md",
     "Web Components/HTML Templates.md",
     "Web Components/Shadow DOM.md",
     "Web Components/Custom Elements.md",
@@ -161,7 +175,6 @@
     "吴恩达机器学习/Unsupervised Learning.md",
     "吴恩达机器学习/Symbol.md",
     "吴恩达机器学习/Supervised Learning.md",
-    "吴恩达机器学习/Linear regression.md",
     "吴恩达机器学习",
     "program/30 Days Of Python.md",
     "基础实践.md",
