@@ -8,4 +8,5 @@
 
 **Perceivability** -- Making sure that all content can be perceived whether people are using sight, hearing, or touch.
 
-**Support personalization**.
+**Support personalization**. With minimal additional effort, you can design your app to support the accessibility features people use to personalize the ways they interact with their devices.
+
